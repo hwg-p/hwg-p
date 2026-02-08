@@ -1,4 +1,5 @@
-![paws](https://visitor-badge.laobi.icu/badge?page_id=hwg-p.hwg-p&left_color=%23429CA6&right_color=%23429CA6&text_color=%23EADC9A)
+![paws](https://visitor-badge.laobi.icu/badge?page_id=hwg-p.hwg-p&left_color=%23429CA6&right_color=%23EADC9A&text_color=%23EADC9A)
+
 
 
 

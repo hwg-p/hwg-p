@@ -1,4 +1,4 @@
-![paws](https://komarev.com/ghpvc/?username=hwg-p&color=429CA6&label=PAWS&label_color=EADC9A)
+![paws](https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/hwg-p.paws&query=value&label=paws&labelColor=429CA6&color=EADC9A)
 
 
 

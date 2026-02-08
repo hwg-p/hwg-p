@@ -1,4 +1,5 @@
-![paws](https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/hwg-p.paws&query=value&label=PAWS&color=429CA6&labelColor=EADC9A)
+![paws](https://img.shields.io/badge/dynamic/json?url=https://counterapi-two.vercel.app/api/hit/hwg-p/paws&query=count&label=PAWS&color=429CA6&labelColor=EADC9A)
+
 
 
 

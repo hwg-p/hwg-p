@@ -1,4 +1,5 @@
-![paws](https://img.shields.io/badge/dynamic/json?url=https://counterapi.dev/api/hwg-p/paws&query=value&label=paws&labelColor=429CA6&color=EADC9A)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hwg-p.hwg-p&left_color=%23429CA6&right_color=%23EADC9A&left_text=paws"/>
+
 
 
 

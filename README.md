@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=hwg-p.hwg-p&left_color=%23429CA6&right_color=%23EADC9A&left_text=paws"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hwg-p.hwg-p&left_color=%23429CA6&right_color=%23EADC9A&left_text=paws:3"/>
 
 
 

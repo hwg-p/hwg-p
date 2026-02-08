@@ -1,4 +1,5 @@
-![paws](https://img.shields.io/badge/dynamic/json?url=https://counterapi-two.vercel.app/api/hit/hwg-p/paws&query=count&label=PAWS&color=429CA6&labelColor=EADC9A)
+![paws](https://visitor-badge.laobi.icu/badge?page_id=hwg-p.hwg-p&left_color=%23429CA6&right_color=%23429CA6&text_color=%23EADC9A)
+
 
 
 
